@@ -3,6 +3,8 @@ quick-next
 
 Quick start template for NextJS application
 
+> This repository has been configured for upcoming new **App Router** by default ([Documentation](https://beta.nextjs.org/docs/routing/fundamentals)). Feel free to change back to regular page routing if you want, no deployment process changed.
+
 Prerequisite
 ---
 
